@@ -1,4 +1,4 @@
-## Beautiful Automation Reports InEmail
+# Beautiful Automation Reports In Email
 This project is for sending a beautiful HTML content in an email, from json file generated after selenium automation runs.
 
 What is this project all about?
